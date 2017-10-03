@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507000590 source:c:\users\rktin\desktop\cursos alura\linguagem c\programas feitos para treino\guess_the_number\guessthenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
