@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507171933 source:c:\users\rktin\desktop\cursos alura\linguagem c\programas feitos para treino\guess_the_word\guess_the_word\main.c
+	<stdio.h>
+	<stdlib.h>
+	"forca.h"
+
+1507129813 c:\users\rktin\desktop\cursos alura\linguagem c\programas feitos para treino\guess_the_word\guess_the_word\forca.h
+
