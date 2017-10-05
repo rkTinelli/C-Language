@@ -1,2 +1,2 @@
 # C-Language
-Exercises don using programming language C
+Exercises done using programming language C
