@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1507223956 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 1\foge-foge\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507299176 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 2\foge-foge\main.c
+	<stdio.h>
+	<stdlib.h>
+	"foge.h"
+	"mapa.h"
+
+1507294810 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 2\foge-foge\foge.h
+
+1507298631 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 2\foge-foge\mapa.h
+
+1507299133 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 2\foge-foge\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	"mapa.h"
+
+1507645706 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 3\foge-foge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"foge.h"
+	"mapa.h"
+
+1507644073 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 3\foge-foge\foge.h
+
+1507645658 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 3\foge-foge\mapa.h
+
+1507645634 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 3\foge-foge\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mapa.h"
+
+1507649234 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 4\foge-foge\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mapa.h"
+
+1508252031 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 4\foge-foge\mapa.h
+
+1508251622 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 4\foge-foge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"foge.h"
+	"mapa.h"
+
+1508252036 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 4\foge-foge\foge.h
+
+1508253861 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 5\foge-foge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"foge.h"
+	"mapa.h"
+	"ui.h"
+
+1508253886 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 5\foge-foge\foge.h
+
+1508253982 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 5\foge-foge\mapa.h
+
+1508253945 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 5\foge-foge\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mapa.h"
+
+1508254193 c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 5\foge-foge\ui.h
+	"mapa.h"
+
+1508254193 source:c:\users\rktin\desktop\cursos alura\linguagem c\curso\c iii _ recursos avançados da linguagem\aula 5\foge-foge\ui.c
+	<stdio.h>
+	"mapa.h"
+
